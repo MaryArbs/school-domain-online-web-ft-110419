@@ -6,7 +6,7 @@ class School
 
   def roster
     @roster
-  end 
+  end
 end
 
 # class Shoe
